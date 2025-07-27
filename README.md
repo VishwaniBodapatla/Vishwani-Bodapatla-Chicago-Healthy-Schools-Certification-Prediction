@@ -46,14 +46,5 @@ This project includes:
 - matplotlib, seaborn
 - xgboost
 
-## 📁 Project Structure
-
-project/
-│
-├── data/ # Source datasets (not included here)
-├── notebooks/ # Jupyter notebooks (EDA, modeling, tuning)
-├── models/ # Saved models (optional)
-├── visuals/ # Output plots (confusion matrices, ROC curves)
-├── src/ # Source Python scripts (if modularized)
-└── README.md # This file
+<pre> ## 📁 Project Structure ``` project/ │ ├── data/ # Source datasets (not included here) ├── notebooks/ # Jupyter notebooks (EDA, modeling, tuning) ├── models/ # Saved models (optional) ├── visuals/ # Output plots (confusion matrices, ROC curves) ├── src/ # Source Python scripts (if modularized) └── README.md # This file ``` </pre>
 
